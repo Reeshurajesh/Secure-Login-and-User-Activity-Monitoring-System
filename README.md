@@ -46,9 +46,35 @@ The Secure Login and User Activity Monitoring System is a Python-based applicati
 
 The program creates the database and tables automatically when the MySQL connection is configured correctly.
 
+
+## Source Code
+
+The complete Python source code is available in [`secure_login.py`](secure_login.py).
+
+
 ## Project Screenshots
 
-Screenshots of registration, login, profile management, and activity logs are included in this repository.
+### 1. User Registration
+![User Registration](Screenshot%20(50)%201.png)
+
+### 2. Login
+![Login](Screenshot%20(51)%202.png)
+
+### 3. User Profile
+![User Profile](Screenshot%20(52)%203.png)
+
+### 4. Update Email
+![Update Email](Screenshot%20(53)%204.png)
+
+### 5. Change Password
+![Change Password](Screenshot%20(54)%205.png)
+
+### 6. My Activity Logs
+![My Activity Logs](Screenshot%20(55)%206.png)
+
+### 7. All Activity Logs
+![All Activity Logs](Screenshot%20(56)%207.png)
+
 
 ## Author
 
